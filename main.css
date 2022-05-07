@@ -6,3 +6,19 @@
 	--ion-color-primary-shade: #002db5;
 	--ion-color-primary-tint: #1a47d3;
 }
+
+ion-toolbar {
+  /* max-height: 5vh; */
+}
+ion-searchbar {
+  /* border-radius: 30px!important; */
+  max-width: 20vw;
+}
+
+.searchbar-input{
+  border-radius: 5px !important;
+  }
+
+ion-icon {
+  color: black !important;
+}
