@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/MattGDwyer/fit-whey/issues"
   },
-  "homepage": "https://github.com/MattGDwyer/fit-whey#readme"
+  "homepage": "https://github.com/MattGDwyer/fit-whey#readme",
+  "dependencies": {
+    "node": "^17.7.2"
+  }
 }
