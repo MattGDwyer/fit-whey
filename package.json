@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/MattGDwyer/fit-whey#readme",
   "dependencies": {
+    "express": "^4.18.1",
     "node": "^17.7.2"
   }
 }
