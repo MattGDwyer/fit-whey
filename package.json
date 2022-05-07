@@ -1,0 +1,26 @@
+{
+  "name": "fit-whey",
+  "version": "1.0.0",
+  "description": "Project for fit-whey",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattGDwyer/fit-whey.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "ionic",
+    "css"
+  ],
+  "author": "Matthew Dwyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattGDwyer/fit-whey/issues"
+  },
+  "homepage": "https://github.com/MattGDwyer/fit-whey#readme"
+}
